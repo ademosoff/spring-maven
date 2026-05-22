@@ -1,2 +1,0 @@
-# spring-maven
-spring-maven
